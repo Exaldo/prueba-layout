@@ -35,9 +35,9 @@ header nav{
     height: 90vh;
     display: flex;
     flex-direction: column;
-    background-image: url(background.jfif); 
+    /* background-image: url(background.jfif); 
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 
 section.section1 *  {
